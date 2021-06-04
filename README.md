@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Momo Ylinen
-- 👀 I’m interested in becoming full stack developer someday.
-- 🌱 I’m currently learning React and NodeJS
+- Looking forward to becoming full stack developer someday.
+- I’m currently learning React and NodeJS
 
 <!---
 MomoYlinen/MomoYlinen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
