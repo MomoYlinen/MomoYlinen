@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer | Passionate About AI, Web & Matchmaking Applications</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momoylinen&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momoylinen&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -10,9 +10,8 @@
 ### 🚀 About Me  
 - 💻 **Junior Software Developer** at **Tavata Global Oy**  
 - 🔥 Passionate about **AI-driven matchmaking**, web development & scalable applications  
-- 🏗️ Experienced in **React, JavaScript, MongoDB & Meteor.js**  
-- 🤖 Building **conversational AI & embeddings-based matchmaking algorithms**  
-- 🌱 Currently learning **CI/CD, C++, and Java**  
+- 🏗️ Experienced in **React, JavaScript, MongoDB & Meteor.js**
+- 🤖 Building **conversational AI & embeddings-based matchmaking algorithms**
 - 💡 Always looking to improve & collaborate on innovative projects  
 
 ---
@@ -63,6 +62,17 @@
 ---
 
 ### 📊 GitHub Stats  
+#### 🔥 **GitHub Streak** (Highlights daily activity & commits)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momoylinen&theme=radical" alt="GitHub Streak" />
+</p>
+
+#### 🚀 **Contribution Activity** (Shows commits & pull requests)  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momoylinen&theme=radical" alt="GitHub Contributions" />
+</p>
+
+#### ⚡ **Top Languages**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momoylinen&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
 </p>
@@ -71,5 +81,4 @@
 
 🌱 **"Always learning, always building!"**  
 ⭐ **Let's collaborate & create something amazing!**
-
 
