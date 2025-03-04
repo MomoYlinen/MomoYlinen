@@ -60,11 +60,3 @@
 
 ---
 
-🌱 **"Always learning, always building!"**  
-⭐ **Let's collaborate & create something amazing!**
-
----
-
-🌱 **"Always learning, always building!"**  
-⭐ **Let's collaborate & create something amazing!**
-
