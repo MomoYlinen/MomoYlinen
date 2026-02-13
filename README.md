@@ -1,56 +1,93 @@
-<h1 align="center">Hi 👋, I'm Momo Ylinen</h1>
-<h3 align="center">Junior Software Developer | Passionate About AI, Web & Matchmaking Applications</h3>
+<h1 align="center">Momo Ylinen</h1>
+<h3 align="center">Software Developer • AI & Matchmaking Systems • Product-Focused Engineer</h3>
+
+<p align="center">
+Building intelligent systems that connect people, opportunities, and ideas.
+</p>
 
 ---
 
-### 🚀 About Me  
-💻 **Junior Software Developer** at **Tavata Global Oy**  
-🔥 Passionate about **AI-driven matchmaking**, web development & scalable applications  
-🏗️ Experienced in **React, JavaScript, MongoDB & Meteor.js**  
-🤖 Building **conversational AI & embeddings-based matchmaking algorithms**  
-🌱 Currently learning **CI/CD, C++, and Java**  
-💡 Always looking to improve & collaborate on innovative projects  
+## 🧠 What I Do
+
+- 💻 Software Developer at **Tavata Global Oy**
+- 🤖 Designing **AI-driven matchmaking systems** using embeddings & vector search
+- ⚡ Building scalable web applications with **React, Meteor & MongoDB**
+- 🎯 Turning complex ideas into clean, usable products
+- 📈 Passionate about product thinking, performance & system design
 
 ---
 
-### 🔗 Connect With Me  
+## 🚀 Featured Work
+
+### 🤝 AI Matchmaking Engine  
+Designed and implemented an embeddings-based matchmaking system  
+- Vector similarity search for profile matching  
+- Intelligent ranking logic  
+- Real-time filtering & scoring  
+- Built with React + Meteor + MongoDB  
+
+### 💼 AI Job Matching Pilot  
+Technical lead for a pilot connecting job seekers with relevant employers  
+- Embeddings-based job-to-profile matching  
+- Custom scoring algorithms  
+- Production-ready implementation  
+
+### 🎥 Virtual & Hybrid Event Technology  
+Worked on scalable event infrastructure including:
+- Matchmaking logic  
+- Networking flows  
+- Video integrations  
+- Customer service automation  
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Meteor.js-000000?style=flat-square&logo=meteor" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
+</p>
+
+### AI & Data
+<p>
+  <img src="https://img.shields.io/badge/Embeddings-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector%20Search-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb" />
+</p>
+
+### Dev & Infra
+<p>
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momoylinen&theme=github_dark" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/momo-ylinen-705164213/">
-    <img src="https://img.shields.io/badge/LinkedIn-Momo%20Ylinen-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Momo%20Ylinen-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
----
-
-### 🛠️ Tech Stack  
-
-#### 🏗 **Frontend & Backend**  
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meteor.js-EE6600?style=for-the-badge&logo=meteor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-#### 🗄️ **Databases & DevOps**  
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-333?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momoylinen&theme=radical" alt="GitHub Contributions" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momoylinen&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-
----
 
