@@ -1,43 +1,57 @@
 <h1 align="center">Momo Ylinen</h1>
-<h3 align="center">Software Developer • AI & Matchmaking Systems • Product-Focused Engineer</h3>
 
 <p align="center">
-Building intelligent systems that connect people, opportunities, and ideas.
+  <b>Software Developer • AI Matchmaking Systems • Product-Focused Engineer</b>
+</p>
+
+<p align="center">
+  Building intelligent systems that connect people, opportunities & ideas.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/momo-ylinen-705164213/">
+    <img src="https://img.shields.io/badge/LinkedIn-Momo%20Ylinen-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 🧠 What I Do
+## 🧠 About Me
 
 - 💻 Software Developer at **Tavata Global Oy**
-- 🤖 Designing **AI-driven matchmaking systems** using embeddings & vector search
-- ⚡ Building scalable web applications with **React, Meteor & MongoDB**
-- 🎯 Turning complex ideas into clean, usable products
-- 📈 Passionate about product thinking, performance & system design
+- 🤖 Architecting **AI-driven matchmaking systems** using embeddings & vector search
+- ⚡ Building scalable full-stack applications with **React, Meteor & MongoDB**
+- 🎯 Strong focus on product thinking, UX & system performance
+- 🚀 Passionate about intelligent systems and real-world impact
 
 ---
 
 ## 🚀 Featured Work
 
-### 🤝 AI Matchmaking Engine  
-Designed and implemented an embeddings-based matchmaking system  
-- Vector similarity search for profile matching  
-- Intelligent ranking logic  
-- Real-time filtering & scoring  
-- Built with React + Meteor + MongoDB  
+### 🤝 AI Matchmaking Engine
+Designed and implemented an embeddings-based matchmaking system:
+- Vector similarity search
+- Intelligent ranking & scoring logic
+- Dynamic filtering
+- Production-ready architecture
+- React + Meteor + MongoDB stack
 
-### 💼 AI Job Matching Pilot  
-Technical lead for a pilot connecting job seekers with relevant employers  
-- Embeddings-based job-to-profile matching  
-- Custom scoring algorithms  
-- Production-ready implementation  
+---
 
-### 🎥 Virtual & Hybrid Event Technology  
-Worked on scalable event infrastructure including:
-- Matchmaking logic  
-- Networking flows  
-- Video integrations  
-- Customer service automation  
+### 💼 AI Job Matching Pilot
+Technical design & implementation of job-to-profile AI matching:
+- Embeddings-based job relevance scoring
+- Custom ranking algorithms
+- Real-world pilot deployment
+
+---
+
+### 🎥 Virtual & Hybrid Event Infrastructure
+Contributed to scalable event technology including:
+- Matchmaking flows
+- Networking logic
+- Video integrations
+- Automation systems
 
 ---
 
@@ -61,8 +75,8 @@ Worked on scalable event infrastructure including:
 <p>
   <img src="https://img.shields.io/badge/Embeddings-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Vector%20Search-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python" />
 </p>
 
 ### Dev & Infra
@@ -74,20 +88,39 @@ Worked on scalable event infrastructure including:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momoylinen&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=momoylinen&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momoylinen&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoylinen&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🧩 Currently Exploring
+
+- Advanced AI system design
+- Scalable ranking architectures
+- Performance optimization
+- Swift & iOS development
+- Clean product-driven engineering
+
+---
+
+## 🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/momo-ylinen-705164213/">
-    <img src="https://img.shields.io/badge/LinkedIn-Momo%20Ylinen-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
 
 
