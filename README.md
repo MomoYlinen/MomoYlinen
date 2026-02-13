@@ -91,16 +91,16 @@ Contributed to scalable event technology including:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momoylinen&show_icons=true&theme=github_dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=momoylinen&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoylinen&layout=compact&theme=github_dark&hide_border=true" 
+    height="165"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momoylinen&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoylinen&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
